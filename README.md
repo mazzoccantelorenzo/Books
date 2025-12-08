@@ -5,7 +5,6 @@ I regularly **read two books in parallel**, alternating between technical and pe
 Every so often I jump into advanced texts out of curiosity and to broaden my perspective, like *Computer Systems: A Programmer's Perspective*.
 
 ### 📘 Currently reading
-- **Clean Code — Robert C. Martin**  
 - **Clean Architecture — Robert C. Martin**  
 - **Emotional Intelligence — Daniel Goleman**
 
@@ -13,4 +12,5 @@ Every so often I jump into advanced texts out of curiosity and to broaden my per
 - **Atomic Habits — James Clear**
 
 ### 🟡 Occasional reference
+- **Clean Code — Robert C. Martin**  
  - **Computer Systems: A Programmer's Perspective**- **Refactoring — Martin Fowler**
