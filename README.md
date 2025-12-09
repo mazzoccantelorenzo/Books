@@ -13,4 +13,5 @@ Every so often I jump into advanced texts out of curiosity and to broaden my per
 
 ### 🟡 Occasional reference
 - **Clean Code — Robert C. Martin**  
- - **Computer Systems: A Programmer's Perspective**- **Refactoring — Martin Fowler**
+- **Computer Systems: A Programmer's Perspective**-
+- **Refactoring — Martin Fowler**
