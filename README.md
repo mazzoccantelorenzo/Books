@@ -1,17 +1,9 @@
+📚 Reading Bio
 
-## 📚 Reading Bio
+I mainly read professional self-care and personal development books, but what I truly enjoy are software-related books.
+I’m especially interested in studying embedded systems and low-level topics.
 
-I regularly **read two books in parallel**, alternating between technical and personal development. I read and apply, I don't focus on finishing the 356th page of the book, I'm not interested in that.
-Every so often I jump into advanced texts out of curiosity and to broaden my perspective, like *Computer Systems: A Programmer's Perspective*.
+📗 Completed
 
-### 📘 Currently reading
-- **Clean Architecture — Robert C. Martin**  
-- **Emotional Intelligence — Daniel Goleman**
-
-### 📗 Completed
-- **Atomic Habits — James Clear**
-
-### 🟡 Occasional reference
-- **Clean Code — Robert C. Martin**  
-- **Computer Systems: A Programmer's Perspective**-
-- **Refactoring — Martin Fowler**
+  Atomic Habits — James Clear
+  Deep Work - Cal Newport
