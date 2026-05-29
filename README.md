@@ -33,5 +33,3 @@ To keep things exciting, I usually juggle several books at once so my brain does
   *(Focused success in a distracted world)*
 
 ---
-
-### What’s next on your list? Always up for recommendations—especially if they dive deep into embedded systems or low-level stuff! 
