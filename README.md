@@ -22,5 +22,10 @@ To keep things exciting, I usually juggle several books at once so my brain does
 - **The Little Go Book** — Karl Seguin  
   *(A concise guide to the Go programming language)*
 
-- **Steal like an artist** — Austin Kleon  
+- **Steal like an artist** — Austin Kleon
+  
+- **Clean Code** — Robert C. Martin
+(A handbook of agile software craftsmanship)
+- **Clean Architecture** — Robert C. Martin
+(A guide to building maintainable and scalable software systems)  
 ---
