@@ -7,20 +7,7 @@ To keep things exciting, I usually juggle several books at once so my brain does
 
 ## Currently Reading
 
-- **So Good They Can't Ignore You** — Cal Newport  
-  *(Mastering your craft and career)*
-
-- **Thinking, Fast and Slow** — Daniel Kahneman  
-  *(Exploring how our minds work in two different modes)*
-
-- **The Little Go Book** — Karl Seguin  
-  *(A concise guide to the Go programming language)*
-
-- **Fundamentals of Software Architecture** — Mark Richards & Neal Ford  
-  *(Building scalable, maintainable systems)*
-
-- **Go Cloud Native** — Bob Strecansky  
-  *(Designing cloud-native applications in Go)*
+- **Grokking Algorithms** —   
 
 ---
 
@@ -31,5 +18,9 @@ To keep things exciting, I usually juggle several books at once so my brain does
 
 - **Deep Work** — Cal Newport  
   *(Focused success in a distracted world)*
+  
+- **The Little Go Book** — Karl Seguin  
+  *(A concise guide to the Go programming language)*
 
+- **Steal like an artist** — Austin Kleon  
 ---
