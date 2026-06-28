@@ -1,4 +1,4 @@
-# What I'm Reading & Loving
+# What I'm Reading 
 
 I’m a big fan of professional self-care and personal development books, but my real passion lies in software-related reads—especially embedded systems and low-level programming.  
 To keep things exciting, I usually juggle several books at once so my brain doesn’t get stuck on the same topic all the time.
