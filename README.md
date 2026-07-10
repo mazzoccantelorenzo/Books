@@ -23,6 +23,9 @@ To keep things exciting, I usually juggle several books at once so my brain does
   *(A concise guide to the Go programming language)*
 
 - **Steal like an artist** — Austin Kleon
+
+- **Tidy first?** — Kent Beck
+
   
 - **Clean Code** — Robert C. Martin
 (A handbook of agile software craftsmanship)
