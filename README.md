@@ -8,6 +8,9 @@ To keep things exciting, I usually juggle several books at once so my brain does
 ## Currently Reading
 
 - **Grokking Algorithms** —   
+- **Software Engineering at Google** —   
+- **Code: The Hidden Language of Computer Hardware and Software** —   
+
 
 ---
 
