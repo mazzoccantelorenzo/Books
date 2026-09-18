@@ -19,6 +19,9 @@ I’m a big fan of professional self-care and personal development books, but my
 - **Atomic Habits** — James Clear  
   *(Tiny changes, remarkable results)*
 
+- **Learning Domain Driven Design** ps: just the essential from chapter 1 to 5.   
+  
+
 - **Deep Work** — Cal Newport  
   *(Focused success in a distracted world)*
   
